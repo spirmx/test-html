@@ -73,6 +73,7 @@ button:hover {
     display: block;
 }
 .pop-up{
+    display: none;
     width: 200px;
     position:absolute;
     background: white;
