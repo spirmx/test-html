@@ -70,7 +70,7 @@ button:hover {
     position:absolute;
     background: #000;
     opacity: 50%;
-    display: block;
+    display: none;
 }
 .pop-up{
     display: none;
